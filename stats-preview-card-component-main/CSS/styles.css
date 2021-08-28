@@ -1,0 +1,151 @@
+
+
+.insights {
+  color: hsl(277, 64%, 61%);
+}
+
+body {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(233, 47%, 7%);
+  margin: 0;
+}
+
+
+@media (min-width: 376px) {
+
+  .main-block {
+    width: 1080px;
+    height: 446px;
+    display: block;
+    margin: 12% auto 10% auto;
+
+  }
+
+  .right-block {
+    font-family: 'Inter';
+    font-size: 15px;
+    width: 540px;
+    height: 446px;
+    display: inline-block;
+    background-color: hsl(244, 38%, 16%);
+    position: absolute;
+    border-radius: 7px 0 0 7px;
+  }
+
+  .left-block {
+    width: 540px;
+    height: 446px;
+    display: inline-block;
+    position: relative;
+    left: 540px;
+  }
+
+  .image {
+    width: 540px;
+    height: 446px;
+    border-radius: 0 7px 7px 0;
+  }
+
+  .right-block-txt {
+    padding: 7% 16% 7% 15%;
+    font-weight: 700;
+  }
+
+  .right-block-txt-without-h1 {
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.7;
+    font-weight: 400;
+  }
+
+  .right-bottom {
+    padding: 2% 0 0 15%;
+  }
+
+  .right-bottom-cell {
+    display: inline-block;
+    padding-right: 12%;
+
+  }
+
+  .numbers-bot {
+    margin-bottom: 5px;
+    margin-top: 50px;
+    font-weight: 700;
+  }
+
+  .bot-txt {
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+  }
+
+  .attribution {
+    position: fixed;
+    bottom: 1px;
+    z-index: -1;
+  }
+
+}
+
+@media (max-width: 375px) {
+
+  .main-block {
+    width: 330px;
+    height: 900px;
+    display: block;
+    margin: 12% auto 10% auto;
+  }
+
+  .right-block {
+    font-family: 'Noto Sans KR';
+    text-align: center;
+    width: 330px;
+    height: 650px;
+    display: inline-block;
+    background-color: hsl(244, 38%, 16%);
+    position: relative;
+    font-size: 15px;
+    top: 250px;
+    border-radius: 0 0 7px 7px;
+  }
+
+  .left-block {
+    width: 330px;
+    height: 250px;
+    display: inline-block;
+    position: relative;
+    bottom: 630px;
+  }
+
+  .image {
+    width: 330px;
+    height: 250px;
+    border-radius: 7px 7px 0 0;
+  }
+
+  .right-block-txt {
+    padding: 10% 12% 7% 12%;
+  }
+
+  .right-block-txt-without-h1 {
+    color: hsla(0, 0%, 100%, 0.75);
+  }
+
+  .right-bottom {
+    position: relative;
+    bottom: 30px;
+  }
+  .numbers-bot {
+    margin-bottom: 5px;
+    margin-top: 50px;
+    font-weight: 700;
+  }
+
+  .bot-txt {
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+
+  }
+
+}
