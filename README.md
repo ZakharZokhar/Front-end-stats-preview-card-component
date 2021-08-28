@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop] screenshots/screenshot-desktop.png
-[Mobile] screenshots/screenshot-mobile.png
+[Desktop] ./stats-preview-card-component-main/screenshots/screenshot-desktop.png
+[Mobile] ./stats-preview-card-component-main/screenshots/screenshot-mobile.png
 
 ### Links
 
