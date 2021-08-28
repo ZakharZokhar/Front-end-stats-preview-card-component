@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ZakharZokhar/Front-end-stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/ZakharZokhar/Front-end-stats-preview-card-component)
+- [Live Site URL](https://xenodochial-pike-0de8a6.netlify.app)
 
 ## My process
 
